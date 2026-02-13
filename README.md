@@ -69,13 +69,13 @@
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/suirfan20/suirfan20/blob/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/suirfan20/suirfan20/main/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 🧊 3D Contribution Cube
 
-![3D Profile](https://github.com/suirfan20/suirfan20/blob/output/profile-3d-contrib/profile-night-view.svg)
+![](https://raw.githubusercontent.com/suirfan20/suirfan20/main/profile-3d-contrib/profile-night-view.svg)
 
 ---
 
