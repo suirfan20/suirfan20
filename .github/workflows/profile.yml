@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # 🐍 Generate Snake
+      # 🐍 Snake (commit to main/output)
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -22,15 +22,15 @@ jobs:
           outputs: |
             output/github-contribution-grid-snake.svg
 
-      # 🧊 Generate 3D Contribution
+      # 🧊 3D Contribution (this action pushes to repo itself)
       - name: Generate 3D Contribution
-        uses: yoshi389111/github-profile-3d-contrib@v1
+        uses: yoshi389111/github-profile-3d-contrib@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: suirfan20
 
-      # 💾 Commit changes
-      - name: Commit files
+      # 💾 Commit snake output
+      - name: Commit snake
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update profile animations"
