@@ -1,8 +1,3 @@
-<!-- =======================
-     🚀 SUIRFAN20 PROFILE README (FULL - RAMAI MODE)
-     Copy-paste langsung ke: suirfan20/README.md
-======================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Irfan%20(Suirfan)&fontSize=52&fontAlignY=35&desc=Backend%20Engineer%20%7C%20System%20Integration%20%7C%20AI%20Chatbot%20Builder&descAlignY=58&animation=twinkling" />
 </p>
@@ -131,6 +126,24 @@ System analysis, SQL & database design, API integration, backend development, an
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-4f4f2c0d-2f5d-4f9b-9bfe-9b35bb6bfe10.gif" width="100%" />
+
+# 🧾 GitHub Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suirfan20&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suirfan20&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suirfan20&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suirfan20&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suirfan20&theme=tokyonight&utcOffset=7)
+
+# 📌 GitHub Metrics Dashboard
+
+![](https://raw.githubusercontent.com/suirfan20/suirfan20/main/github-metrics.svg)
+
+# 📦 Extra Stats
+
+![](https://img.shields.io/github/followers/suirfan20?style=for-the-badge)
+![](https://img.shields.io/github/stars/suirfan20?style=for-the-badge)
+![](https://img.shields.io/badge/Timezone-Asia%2FJakarta-00F7FF?style=for-the-badge)
 
 # 🐍 Contribution Snake
 
