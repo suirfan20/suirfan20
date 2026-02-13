@@ -60,13 +60,6 @@
 
 ---
 
-# ⏳ WakaTime Stats
-
-<!-- Ganti USERNAME dengan username wakatime lu -->
-![](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight)
-
----
-
 # 🐍 Contribution Snake
 
 ![](https://raw.githubusercontent.com/suirfan20/suirfan20/main/output/github-contribution-grid-snake.svg)
