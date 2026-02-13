@@ -10,9 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v3
 
+      # 🐍 Generate Snake
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -20,13 +22,15 @@ jobs:
           outputs: |
             output/github-contribution-grid-snake.svg
 
+      # 🧊 Generate 3D Contribution
       - name: Generate 3D Contribution
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          github_user_name: suirfan20
-          output_dir: output/profile-3d-contrib
+        uses: yoshi389111/github-profile-3d-contrib@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: suirfan20
 
-      - name: Push changes
+      # 💾 Commit changes
+      - name: Commit files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update profile animations"
